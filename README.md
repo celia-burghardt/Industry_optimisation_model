@@ -19,4 +19,4 @@ contains scripts that pre-process raw data. The folder data already contains the
 
 data:
 ---------------------------
-contains all needed processed and rwa data
+contains all needed processed and raw data and PyPSA-Eur networks.
